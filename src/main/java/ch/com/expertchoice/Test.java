@@ -5,8 +5,6 @@
  */
 package ch.com.expertchoice;
 
-import org.apache.commons.net.ftp.FTPClient;
-
 /**
  *
  * @author Compumar
